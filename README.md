@@ -1,11 +1,29 @@
 [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://theultimatenextprofileexperience.on.drv.tw/sites/landing%20page%20site/log%20page/)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Hailing from the vibrant landscapes of Morocco, I am a dedicated frontend developer with a strong passion for crafting visually stunning and user-friendly websites. My expertise lies in combining creativity with technical skills, bringing ideas to life through responsive design and intuitive interfaces. Driven by curiosity and a love for coding, I continually explore new tools and technologies to stay ahead in the ever-evolving world of web development. My goal is to create digital experiences that not only meet users' needs but also leave a lasting impression.</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawtinx&label=Profile%20views&color=0e75b6&style=flat" alt="kawtinx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/flaprd64986" target="blank"><img src="https://img.shields.io/twitter/follow/flaprd64986?logo=twitter&style=for-the-badge" alt="flaprd64986" /></a> </p>
+
+- 🔭 I’m currently working on **Web DP**
+
+- 🌱 I’m currently learning **cyber security , more language of programming , Take Courses**
+
+- 👯 I’m looking to collaborate on **React Native**
+
+- 🤝 I’m looking for help with **Big Project**
+
+- 👨‍💻 All of my projects are available at [https://theultimatenextprofileexperience.on.drv.tw/sites/landing%20page%20site/log%20page/](https://theultimatenextprofileexperience.on.drv.tw/sites/landing%20page%20site/log%20page/)
+
+- 📝 I regularly write articles on [https://brighthorizonnews.blogspot.com/](https://brighthorizonnews.blogspot.com/)
+
+- 💬 Ask me about **Anyting of Programing**
+
+- 📫 How to reach me **ahmedtiznit61@gmail.com**
+
+- 📄 Know about my experiences [https://theultimatenextprofileexperience.on.drv.tw/sites/landing%20page%20site/log%20page/profile.html](https://theultimatenextprofileexperience.on.drv.tw/sites/landing%20page%20site/log%20page/profile.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

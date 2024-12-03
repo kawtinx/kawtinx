@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawtinx&show_icons=true&locale=en" alt="kawtinx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawtinx&" alt="kawtinx" /></p>
+
+[![streak](https://codeium.com/badges/v2/user/harmony/streak)](https://codeium.com/profile/harmony)
